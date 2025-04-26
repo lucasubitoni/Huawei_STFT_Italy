@@ -26,3 +26,8 @@ It was then processed and simplified for this demo in the Jupyter Notebook. The 
 
 
 https://user-images.githubusercontent.com/69035483/196029758-e492c84b-8199-4592-a173-5d709c4c4f3e.mp4
+
+## YouTube Video Presentation
+Check out the video of our **Global Huawei Seeds for the Future Competition** presentation (starts around minute 17).
+[![Watch the Video](https://img.youtube.com/vi/dDU7KTkIIZY/0.jpg)](https://www.youtube.com/watch?v=dDU7KTkIIZY)
+
