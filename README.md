@@ -29,5 +29,6 @@ https://user-images.githubusercontent.com/69035483/196029758-e492c84b-8199-4592-
 
 ## YouTube Video Presentation
 Check out the video of our **Global Huawei Seeds for the Future Competition** presentation (starts around minute 17).
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/dDU7KTkIIZY?si=FkKUugr6UcRCBL6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Video Presentation](https://img.youtube.com/vi/dDU7KTkIIZY/0.jpg)](https://www.youtube.com/watch?v=dDU7KTkIIZY)
+
 
